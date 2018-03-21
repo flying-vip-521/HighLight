@@ -1,3 +1,4 @@
+```
 本库应用于快速开发新手引导，支持以下功能：
 
     1. 半透明蒙版
@@ -158,3 +159,4 @@ object SpotlightUtils {
         return (context as ContextWrapper).baseContext as Activity
     }
 }
+```
